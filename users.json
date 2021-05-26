@@ -1,6 +1,14 @@
-{
-  "id": 1,
-  "name": "Muhammad Alfian Rasyidin",
-  "address": "Jakarta",
-  "gender": "Male"
-}
+[
+  {
+    "id": 1,
+    "name": "Muhammad Alfian Rasyidin",
+    "address": "Jakarta",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "name": "Dion",
+    "address": "Bandung",
+    "gender": "Male"
+  }
+]
